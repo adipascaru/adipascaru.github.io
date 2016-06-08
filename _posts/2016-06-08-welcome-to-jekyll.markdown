@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bun venit pe site-ul meu!"
 date:   2016-06-08 10:48:09 -0400
 categories: jekyll update
 ---
