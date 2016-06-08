@@ -5,14 +5,17 @@ date:   2016-06-08 10:48:09 -0400
 categories: jekyll update
 ---
 Bun venit pe site-ul meu ! 
+Daca iti plac masinile ti-am selectat mai jos niste reviewuri frumoase
 
 https://www.youtube.com/watch?v=UslFzWrEC_4 
 
-Daca vrei sa afli care masina suna cel mai bine poti vizualiza urmatorul clasament :
+https://www.youtube.com/watch?v=UslFzWrEC_4
 
-https://www.youtube.com/watch?v=hhJelyFL_YQ
-https://www.youtube.com/watch?v=O105ftejF5w
-https://www.youtube.com/watch?v=JdK_Dp6mBkc
+
+https://www.youtube.com/watch?v=QOBjYEw1mN0
+
+
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
