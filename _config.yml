@@ -7,13 +7,13 @@
 
 # Site settings
 title: Prima mea pagina web 
-email: your-email@domain.com
+email: mpascaru97@yahoo.ro
 description: > # this means to ignore newlines until "baseurl:"
   Sunt elev la liceul Petru Rares din Suceava
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.facebook.com/adi.pascaru" # the base hostname & protocol for your site
+twitter_username: adipascaru
+github_username:  adipascaru
 
 # Build settings
 markdown: kramdown
