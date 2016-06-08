@@ -4,11 +4,8 @@ title:  "Bun venit pe site-ul meu!"
 date:   2016-06-08 10:48:09 -0400
 categories: jekyll update
 ---
-Bun venit pe site-ul meu ! Daca vrei sa vizualizezi niste reviewuri despre masini poti alege din lista de linkuri urmatoare:
+Bun venit pe site-ul meu ! 
 
-https://www.youtube.com/watch?v=_WAYSVL5rDs
-https://www.youtube.com/watch?v=ABWMNsB0_SQ
-https://www.youtube.com/watch?v=gqWYSL6t5eE
 https://www.youtube.com/watch?v=UslFzWrEC_4 
 
 Daca vrei sa afli care masina suna cel mai bine poti vizualiza urmatorul clasament :
